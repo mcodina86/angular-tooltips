@@ -20,10 +20,10 @@
     position: absolute;
     pointer-events: none; }
   .angular-tooltip:before {
-    border-color: transparent;
+    border-color: rgba(0, 0, 0, 0);
     border-width: 8px; }
   .angular-tooltip:after {
-    border-color: transparent;
+    border-color: rgba(0, 0, 0, 0);
     border-width: 5px; }
   .angular-tooltip.angular-tooltip-top:before, .angular-tooltip.angular-tooltip-top:after, .angular-tooltip.angular-tooltip-top-center:before, .angular-tooltip.angular-tooltip-top-center:after, .angular-tooltip.angular-tooltip-top-middle:before, .angular-tooltip.angular-tooltip-top-middle:after {
     top: 100%;
